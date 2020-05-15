@@ -22,18 +22,18 @@ solves first passage model for:
 ### returns:
 
 if output = 1 (preset)
-*inverse of mean first passage time
+* inverse of mean first passage time
     
 if output = 2:
-*inverse of mean first passage time
-*first order rate constant
-*second order rate constant
-*threshold concentration
+* inverse of mean first passage time
+* first order rate constant
+* second order rate constant
+* threshold concentration
     
 if output = 3:
-*k1 forward  (second order rate constant for toehold binding)
-*k1 backward (first order rate constant for toehold unbinding)
-*k2          (first order rate constant for full displacement)
+* k1 forward  (second order rate constant for toehold binding)
+* k1 backward (first order rate constant for toehold unbinding)
+* k2          (first order rate constant for full displacement)
 
 ## Demo
 ### 01 basic functions
