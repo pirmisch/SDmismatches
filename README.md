@@ -18,6 +18,7 @@ solves first passage model for:
 * mismatch mode (single/double invader, single incumbent)
 * optional second mismatch
 * optional second toehold (handle with care)
+* output option
     
 ### returns:
 
