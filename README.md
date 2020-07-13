@@ -63,5 +63,4 @@ The overall rate constant is seprated into three rate constants to set up a syst
 * pulse generation using a DNA network
 
 ## References
-'Modelling DNA-strand displacement reactions in the presence of base-pair mismatches' Patrick Irmisch, Thomas E. Ouldridge, Ralf Seidel
--link to publication
+Irmisch, P.; Ouldridge, T. E.; Seidel, R. Modeling DNA-Strand Displacement Reactions in the Presence of Base-Pair Mismatches. J. Am. Chem. Soc. 2020, 142, 11451−11463. https://doi.org/10.1021/jacs.0c03105
